@@ -37,7 +37,7 @@ exports.loadFonts = function(include) {
     module: {
       loaders: [
         {
-          test: /\.woff$/,
+          test: /\.(woff|woff2)$/,
           // Inline small woff files and output them below font/.
           // Set mimetype just in case.
           loader: 'url',
@@ -49,7 +49,7 @@ exports.loadFonts = function(include) {
           include: include
         },
         {
-          test: /\.ttf$|\.eot$/,
+          test: /\.(ttf|eot|svg)$/,
           loader: 'file',
           query: {
             name: 'font/[hash].[ext]'

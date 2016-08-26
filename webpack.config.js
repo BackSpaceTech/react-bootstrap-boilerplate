@@ -9,17 +9,9 @@ const ENABLE_POLLING = process.env.ENABLE_POLLING;
 const PATHS = {
   app: path.join(__dirname, 'app'),
   style: [
-    path.join(__dirname, 'app/css', 'main.css'),
-    path.join(__dirname, 'app/css', 'bootstrap.min.css'),
-    path.join(__dirname, 'app/css', 'bootstrap-theme.min.css')
+    path.join(__dirname, 'app/css', 'bootstrap.min.css')
   ],
-  fonts: [
-    path.join(__dirname, 'app/fonts', 'glyphicons-halflings-regular.eot'),
-    path.join(__dirname, 'app/fonts', 'glyphicons-halflings-regular.svg'),
-    path.join(__dirname, 'app/fonts', 'glyphicons-halflings-regular.ttf'),
-    path.join(__dirname, 'app/fonts', 'glyphicons-halflings-regular.woff'),
-    path.join(__dirname, 'app/fonts', 'glyphicons-halflings-regular.woff2')
-  ],
+  fonts: path.join(__dirname, 'app', 'fonts'),
   build: path.join(__dirname, 'build'),
   test: path.join(__dirname, 'tests')
 };
