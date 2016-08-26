@@ -1,4 +1,7 @@
 # React-Bootstrap Webpack Boilerplate
+
+![React-Bootstrap Boilerplate](https://avatars0.githubusercontent.com/u/6853419?v=3&s=400)
+
 Webpack Boilerplate for React-Bootstrap
 
 Based on the [SurviveJS book][a694205a].
