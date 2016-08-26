@@ -1,2 +1,2 @@
-# react-bootstrap-boilerplate
-Not working don't use!
+# React Bootstrap Boilerplate
+Webpack Boilerplate for React-Bootstrap
