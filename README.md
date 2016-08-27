@@ -6,7 +6,7 @@ Webpack Boilerplate for [React-Bootstrap][cb3473c5]
 
   [cb3473c5]: https://react-bootstrap.github.io/ "React-Bootstrap"
 
-Based on the [SurviveJS book][a694205a].
+Based on the excellent [SurviveJS book][a694205a].
 
 ## Getting Started
 
