@@ -26,4 +26,10 @@ Beyond development, the boilerplate supports other tasks listed below:
 * `npm run test:lint` - Runs code through ESLint to spot code quality issues.
 * `npm run stats` - Generates Webpack build statistics. See the [Analyzing Build Statistics](http://survivejs.com/webpack/building-with-webpack/analyzing-build-statistics/) chapter.
 
+.
+
+
+
+[![BackSpace Academy](https://backspace.academy/assets/img/logo.svg)](https://backspace.academy)
+
   [a694205a]: https://leanpub.com/survivejs-webpack "SurviveJS"
